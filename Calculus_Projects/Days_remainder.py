@@ -1,4 +1,5 @@
-#This program will help to find the remainder of time left from an input of numbers of days
+#This program will help to find the remaining time from an input of numbers of days in hours, minutes and seconds
+
 #Accepting user input
 days = int(input("Enter number of days: "))
 
@@ -12,4 +13,5 @@ minutes = hours * 60
 seconds = minutes * 60
 
 #Displaying the results to the user
+
 print(f"{days} days is equivalent to {hours} hours, or {minutes} minutes, or {seconds} seconds.")
