@@ -17,13 +17,13 @@ My primary focus right now is strengthening my understanding of:
 
 ### 🚀 Featured Repository
 
-**[Python Beginner Projects](https://github.com/[YourUsername]/Python-Beginner-Projects)**
+**[Python Beginner Projects](https://github.com/Beliro/Python-Beginner-Projects)**
 * A collection of simple, fundamental projects designed to solidify my core Python skills. It's where I practice what I learn!
 
 ---
 
 ### 📫 Let's Connect!
 
-* **GitHub:** **[@Louis-M](https://github.com/Louis-M)** (You're already here!)
+* **GitHub:** **[@Beliro](https://github.com/Beliro)** (You're already here!)
 * **LinkedIn:** https://www.linkedin.com/in/louis-m-belfort-libero-30697a241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 * **Email:** belfortlibero@gmail.com
