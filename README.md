@@ -31,7 +31,7 @@ If you want to run any of these projects, here's how you can quickly set up your
 
 1.  **Clone the repository** to your local machine:
     ```bash
-    git clone [https://github.com/](https://github.com/)[YourUsername]/Python-Beginner-Projects.git
+    git clone [https://github.com/](https://github.com/)[Beliro]/Python-Beginner-Projects.git
     cd Python-Beginner-Projects
     ```
 
@@ -43,8 +43,8 @@ If you want to run any of these projects, here's how you can quickly set up your
 
 3.  **Run a project!** Navigate to a project folder and execute the main Python file:
     ```bash
-    cd 01_simple_calculator
-    python calculator.py
+    cd Python_Beginner_Projects
+    Days_Remainder.py
     ```
 
 ---
