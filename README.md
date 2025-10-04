@@ -1,29 +1,62 @@
-# 👋 Hi, I am Louis Belfort!
+# 🐍 Python Beginner Projects
 
-I am a budding developer, aspiring to dive into AI and Machine Learning.
-My goal now is to focus on building foundational skills in Python, MySQL and Machine Learning tools.
+Welcome to my **learning laboratory!** This repository is a dedicated space for simple, foundational projects aimed at solidifying my knowledge of **Python** and related development tools.
 
----
-
-### 💻 About This Journey
-
-I recently started my journey into development and am using GitHub as my primary workspace to track my progress, learn Git and version control, and build a portfolio of practical projects.
-
-My primary focus right now is strengthening my understanding of:
-* 🐍 Python Fundamentals (data structures, algorithms, object-oriented programming)
-* 🛠️ Essential Tools (e.g., virtual environments, basic command line and others)
+The goal isn't complex, production-ready code, but rather **clear, readable, and functional practice** to build a strong foundation.
 
 ---
 
-### 🚀 Featured Repository
+## 📂 Project Structure & Examples
 
-**[Python Beginner Projects](https://github.com/Beliro/Python-Beginner-Projects)**
-* A collection of simple, fundamental projects designed to solidify my core Python skills. It's where I practice what I learn!
+Each project is contained in its own folder and typically includes a brief explanation of the concepts it covers.
+
+| Project Name | Concept Focused On | Status |
+| :--- | :--- | :--- |
+| `days_remainder` | `if/elif/else`, Basic I/O | Complete |
+| `DinnerCalculator_Ladies` | Basic i/o | complete |
+| `Simple_Calculator` | functions, `if/elif/else`, Basic I/O | To Do |
+| **...and more to come!** | | |
 
 ---
 
-### 📫 Let's Connect!
+## 🚀 Getting Started
 
-* **GitHub:** **[@Beliro](https://github.com/Beliro)** (You're already here!)
-* **LinkedIn:** https://www.linkedin.com/in/louis-m-belfort-libero-30697a241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-* **Email:** belfortlibero@gmail.com
+If you want to run any of these projects, here's how you can quickly set up your environment.
+
+### Prerequisites
+
+* **Python 3.13** installed on your system.
+
+### Installation & Execution
+
+1.  **Clone the repository** to your local machine:
+    ```bash
+    git clone [https://github.com/](https://github.com/)[YourUsername]/Python-Beginner-Projects.git
+    cd Python-Beginner-Projects
+    ```
+
+2.  *(Optional but Recommended)* **Create a virtual environment** to keep dependencies isolated:
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # On Windows, use: .\venv\Scripts\activate
+    ```
+
+3.  **Run a project!** Navigate to a project folder and execute the main Python file:
+    ```bash
+    cd 01_simple_calculator
+    python calculator.py
+    ```
+
+---
+
+## 🛠️ Tools & Technologies
+
+* **Python 3**
+* **Git** & **GitHub** (for version control and hosting)
+* **Virtual Environments** (for managing dependencies)
+
+---
+
+## 📝 License
+
+This project is open-source and available under the **MIT License**. Feel free to explore and use the code for your own learning!
